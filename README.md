@@ -26,7 +26,7 @@ if you dont know how to do this go [here]([https://www.example.com](https://deve
 1. locate your spotify **client_id** and **secret_id** from your *spotify for developer dashboard*
 2. locate your ENV text file and copy and paste these ids into the file
 
->the file should look like this: 
+>the file should look like this: <br>
 >`SPOTIFY_CLIENT_ID=`<br>
 >`SPOTIFY_CLIENT_SECRET=`<br>
 
