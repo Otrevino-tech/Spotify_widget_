@@ -25,7 +25,7 @@ if you dont know how to do this go [here]([https://www.example.com](https://deve
 1. locate your spotify **client_id** and **secret_id** from your *spotify for developer dashboard*
 2. locate your ENV text file and copy and paste these ids into the file
 the file should look like this: 
->`SPOTIFY_CLIENT_ID=`
+>`SPOTIFY_CLIENT_ID=`\n
 >`SPOTIFY_CLIENT_SECRET=`
 
 if you do not have git bash, powershell should work
