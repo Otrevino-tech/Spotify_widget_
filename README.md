@@ -7,7 +7,7 @@ a simple spotify widget I made for class, but will use for streaming purposes.
 - add creditional middle man
 - 
 <br>
-## Setup 
+##Setup 
 --- WARNING --- 
 this setup is only for those who know IDEs, basic software, and 
 
@@ -17,11 +17,13 @@ before you go down this rabbit hole
 <br>
 if you dont know how to do this go [here]([https://www.example.com](https://developer.spotify.com/documentation/web-api))
 <br>
+
 ### 2. Add code into your system 
 1. create a folder *REMEMBER WHERE*
 2. download the zip file from MAIN.
 3. extract the folder into your new folder
 <br>
+
 ### 3. Configuring ENV file 
 1. locate your spotify **client_id** and **secret_id** from your *spotify for developer dashboard*
 2. locate your ENV text file and copy and paste these ids into the file
