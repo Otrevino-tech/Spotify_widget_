@@ -34,13 +34,16 @@ if you dont know how to do this go [here]([https://www.example.com](https://deve
 
 3. save and close the ENV file
 <br>
+
 ### 4. run the Virtual Environment and widget
 if you do not have git bash, powershell should work
 * If you have git bash * 
 > 1. cd into folder
 > 2. run: `source .\venv\Scripts\activate`
 > 3. then run: `python spotify_widget`
+>
 <br>
+
 ## Notes
 1. It is a simple widget
 2. it does not have an apk or win app wrapper *yet*
